@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AiiFuy1/zqZi3fVxxzQF++kQU4IXuHE8lkdfY+nDw/lgHIeyAFzcFKhLC7o4Mdf68k5MP6Eczi/DtQTG2WVsQg==",
+  "dgSpecHash": "D29v7Bt4z5l2EyMbhcxwN0y0fZctgV7YHh4uieX2PZ8wK/CysplsQ3z0FIDT6gAIxIyIRFKN+uZpSSHf0PayoA==",
   "success": true,
-  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\40 - Infrastructure\\BestDeals.Logging\\BestDeals.Logging.csproj",
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\40 - Infrastructure\\BestDeals.Logging\\BestDeals.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

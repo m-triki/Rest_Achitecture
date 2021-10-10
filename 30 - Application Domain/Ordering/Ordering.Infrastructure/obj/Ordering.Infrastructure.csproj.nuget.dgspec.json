@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {}
+    "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {
+    "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
         "projectName": "Ordering.Infrastructure",
-        "projectPath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+        "projectPath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\maher\\.nuget\\packages\\",
-        "outputPath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\obj\\",
+        "outputPath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\30 - Application Domain\\Ordering\\Ordering.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wuc01Pbg3UAce074cxvNyjhaVj7kxw4y9BYVyU8AHx+gYE/X6rTyYdhgQ2ocTo/SfP4UbkQjDSOH8OTdl+TnYw==",
+  "dgSpecHash": "Kypc1xWgoT27MPm2t5+cnf0DeJMaAyQ69kMnwjmlprp4+0oWAgz0nRzNjD/NkO0z83ar32RP7a8TAMvNJHON9A==",
   "success": true,
-  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\40 - Infrastructure\\BestDeals.Mailing\\BestDeals.Mailing.csproj",
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\40 - Infrastructure\\BestDeals.Mailing\\BestDeals.Mailing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

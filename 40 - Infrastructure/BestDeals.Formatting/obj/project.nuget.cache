@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "giC3w+N2zrt8aqNmT432bYxmXSEHAbefshWgc5gNriuwMrFVAgjegGz39nMN52QmUnzw5ONDRXYjt+b9Fic0mA==",
+  "dgSpecHash": "mpr6ManUkCgx6Y+GkcKL1o3YMy8S1SxVCtYSLWUG3l0T4M7XVvosLN+wm/WCwWKRuJA4rV+30Bws3EnH+cf/Dw==",
   "success": true,
-  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\40 - Infrastructure\\BestDeals.Formatting\\BestDeals.Formatting.csproj",
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\40 - Infrastructure\\BestDeals.Formatting\\BestDeals.Formatting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

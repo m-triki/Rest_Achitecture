@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t1lSnRB5mfDwtLkHbhwAFqaC42jcuResP71SwyfsrORI4RTyG6b7iOu6OxxQI0/HjuwT9Au7S86f+onrMzRadg==",
+  "dgSpecHash": "RFzkQ76s31vEw2iQ0ycaI9+GD3V4diOF4Be61c60qNHk+G4hptPla2zedSyvcAl0ukmKPTJIFTgeLhzpBUWkIw==",
   "success": true,
-  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\40 - Infrastructure\\BestDeals.Geolocalisation\\BestDeals.Geolocalisation.csproj",
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\40 - Infrastructure\\BestDeals.Geolocalisation\\BestDeals.Geolocalisation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

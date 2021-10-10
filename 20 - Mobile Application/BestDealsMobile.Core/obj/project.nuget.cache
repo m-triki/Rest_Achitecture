@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MN4LFOUKDrJ36gXR/yrV4CYVheeDpgfxQ8XwZFhoQkNTlQ/Jr2EY7ROGVDk2epDUnwsZXyYJgl1umSbfY7cAmg==",
+  "dgSpecHash": "ly3+s+yPrQFQhcTkNqnIhr3728eaMkrbO48ably6HtVqLU4iYPv9GAq1mhi1aWQ/W/GzpO06wTOJZIw1fxTUWQ==",
   "success": true,
-  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\20 - Mobile Application\\BestDealsMobile.Core\\BestDealsMobile.Core.csproj",
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\20 - Mobile Application\\BestDealsMobile.Core\\BestDealsMobile.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

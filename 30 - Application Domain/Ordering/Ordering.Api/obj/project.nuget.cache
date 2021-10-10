@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AH77aEQDqmDVElVND0LDN58Gieu8mKIgWvy5/aooXmLjoxZrGL9KKA8DrXxClCubYB6Clhawc/OJ5S2wmVhfdw==",
+  "dgSpecHash": "daxdxoRBDwdJ8fNTHpsqH2/Jmh5/xX/VX90Bx9oEUpwMAjfxRWeZyZ65S/1sVWZoJFZdoC3DP7olOoeH8bQiwA==",
   "success": true,
-  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\30 - Application Domain\\Ordering\\Ordering.Api\\Ordering.Api.csproj",
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\30 - Application Domain\\Ordering\\Ordering.Api\\Ordering.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maher\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\maher\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",

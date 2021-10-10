@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u6PlfqlZbD8xt8DciHUqrJv4J6wzwvyzg79vPhlVtZZyyIMXPWinv8AQoeeY7SOuPsGeD6utJ0Cm+vBo+ddxGg==",
+  "dgSpecHash": "vlusVxpXitOkxbOBemU2/LL12K1YxfbV3lde0Ktfe7x7+yMROXVPtVbSWm+dzakTVpXLPyIzexj9CUJn3sRk5Q==",
   "success": true,
-  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\10 - Web Application\\BestDeals.Admin\\BestDeals.Admin\\BestDeals.Admin.csproj",
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\10 - Web Application\\BestDeals.Admin\\BestDeals.Admin\\BestDeals.Admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maher\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\maher\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",

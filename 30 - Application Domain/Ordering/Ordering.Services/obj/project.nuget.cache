@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qR2ZWV9N8fpmnD7FPL+W0VU8ksmwCNKksprnfvV6TupCrv4kskW45H8PompRIdmS5jaup0MjMJGl7/Q1mLBoZA==",
+  "dgSpecHash": "N28Z324yC5rRGmGh6mGljbu3HZJWFLE8zZlizEkjTTojIwKrYAWVEslnq8gdk06hoy0vT4CnHXYo+vbmFcK96A==",
   "success": true,
-  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Delivery_Draft\\30 - Application Domain\\Ordering\\Ordering.Services\\Ordering.Services.csproj",
+  "projectFilePath": "D:\\Maher\\Pro\\Dev apps\\Archit_REST\\30 - Application Domain\\Ordering\\Ordering.Services\\Ordering.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\maher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
